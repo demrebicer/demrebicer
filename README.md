@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a SAAS Project for Amazon Sellers**
 
-- 🌱 I’m currently learning **Spring Framework for JAVA**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **hello@demrebicer.com**
 
