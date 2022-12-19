@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Demre</h1>
 <h3 align="center">I'm a full stack engineer who always likes to learn new things.</h3>
 
-- 🔭 I’m currently working on **a SAAS Project for Amazon Sellers**
+With a background in full stack development and project management, I have experience in delivering high-quality software solutions. 
 
-- 🌱 I’m currently learning **Flutter**
+My skill set includes technologies such as ReactJS, VueJS, NestJS, and MongoDB, and I have a track record of contributing ideas and suggestions, delivering updates on deadlines and designs, and providing code review, debugging, and troubleshooting. I have a strong ability to manage development milestones and mentor junior team members. 
+
+In addition, I have experience in developing SaaS products using Vue.js and the Java Spring framework, and writing e2e tests using Cucumber.js. I am excited to continue my growth in the tech industry and make an impact through my work.
+
 
 - 📫 How to reach me **hello@demrebicer.com**
 
